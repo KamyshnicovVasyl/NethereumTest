@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"val","type":"int256"}],"name":"multiply","outputs":[{"name":"d","type":"int256"}],"payable":false,"type":"function"},{"inputs":[{"name":"multiplier","type":"int256"}],"payable":false,"type":"constructor"}]
