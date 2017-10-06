@@ -3,6 +3,7 @@ using Nethereum.Hex.HexTypes;
 using Nethereum.RPC.TransactionReceipts;
 using Nethereum.Util;
 using Nethereum.Web3;
+using Nethereum.Web3.Accounts;
 using Nethereum.Web3.Accounts.Managed;
 using System;
 using System.Numerics;
@@ -56,7 +57,9 @@ namespace NethereumTest
             var senderAddress = "0x12890d2cce102216644c59daE5baed380d84830c";
             var password = "password";
             var receiverAddress = "0x13f022d72158410433cbd66f5dd8bf6d2d129924";
+            //we could use another type of account
             //var privateKey = "0xb5b1870957d373ef0eeffecc6e4812c0fd08f554b37b233526acc331bf1544f7";
+            //var accountWithPK = new Account(privateKey);
             var account = new ManagedAccount(senderAddress, password);
             var web3 = new Web3(account);
             
