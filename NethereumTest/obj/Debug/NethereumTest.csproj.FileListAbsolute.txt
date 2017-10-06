@@ -38,3 +38,43 @@ E:\Projects\EthereumTest\NethereumTest\obj\Debug\NethereumTest.csproj.CoreCompil
 E:\Projects\EthereumTest\NethereumTest\obj\Debug\NethereumTest.dll
 E:\Projects\EthereumTest\NethereumTest\obj\Debug\NethereumTest.pdb
 E:\Projects\EthereumTest\NethereumTest\obj\Debug\NethereumTest.csprojResolveAssemblyReference.cache
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.abstractions.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.runner.utility.net35.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.runner.reporters.net452.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\NethereumTest.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\NethereumTest.pdb
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\BouncyCastle.Crypto.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\EdjCase.JsonRpc.Client.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\EdjCase.JsonRpc.Core.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.ABI.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.Contracts.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.Geth.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.Hex.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.JsonRpc.Client.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.KeyStore.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.RLP.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.RPC.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.Signer.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.Util.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Nethereum.Web3.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Newtonsoft.Json.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.assert.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.core.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.execution.desktop.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\Newtonsoft.Json.xml
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.assert.xml
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.core.xml
+F:\NethereumTest\Nethereum Test\NethereumTest\bin\Debug\xunit.execution.desktop.xml
+F:\NethereumTest\Nethereum Test\NethereumTest\obj\Debug\NethereumTest.csprojResolveAssemblyReference.cache
+F:\NethereumTest\Nethereum Test\NethereumTest\obj\Debug\NethereumTest.csproj.CoreCompileInputs.cache
+F:\NethereumTest\Nethereum Test\NethereumTest\obj\Debug\NethereumTest.dll
+F:\NethereumTest\Nethereum Test\NethereumTest\obj\Debug\NethereumTest.pdb
